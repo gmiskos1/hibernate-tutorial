@@ -13,7 +13,8 @@
         <!-- <property name="connection.url">jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&amp;serverTimezone=UTC</property>  -->
         
         <!-- database for demo.OneToOne -->
-        <property name="connection.url">jdbc:mysql://localhost:3306/hb-01-one-to-one-uni?useSSL=false&amp;serverTimezone=UTC</property>
+        <!-- <property name="connection.url">jdbc:mysql://localhost:3306/hb-01-one-to-one-uni?useSSL=false&amp;serverTimezone=UTC</property> -->
+        <property name="connection.url">jdbc:mysql://localhost:3306/hb-01-one-to-one-bidirectional?useSSL=false&amp;serverTimezone=UTC</property>
         
         <property name="connection.username">gmiskos</property>
         <property name="connection.password">gmiskos</property>
